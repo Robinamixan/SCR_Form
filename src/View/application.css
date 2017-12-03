@@ -1,0 +1,20 @@
+.panel_view{
+	-fx-background-color: #cccccc;
+	-fx-border-width: 5;
+	-fx-border-color: #000000; 
+}
+
+.panel_ctrl{
+	-fx-border-width: 5;
+	-fx-border-color: #000000; 
+	-fx-background-color: #cccccc;
+}
+
+.button_circle{
+	-fx-background-color: green ;
+	-fx-background-radius: 25 ;
+	-fx-border-width: 2;
+	-fx-border-color: white ;
+	-fx-border-radius: 22;
+	-fx-text-fill: white ;
+}
